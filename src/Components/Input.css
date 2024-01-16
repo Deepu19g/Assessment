@@ -1,0 +1,19 @@
+.nameitem{
+    
+    list-style-type: none;
+}
+.visibleclass{
+    display: none;
+}
+.ChipDiv{
+    display: flex;
+}
+.listContainer{
+    border-radius: 1px;
+    box-shadow: antiquewhite !important;
+    border: 1px solid;
+    padding-top: 0;
+    margin-top: 0;
+    text-align: center;
+    padding-left: 0;
+}
