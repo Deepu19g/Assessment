@@ -1,0 +1,25 @@
+.ChipContainer {
+  display: flex;
+  height: 2rem;
+}
+.chipItem {
+  border: 1px solid;
+  width: 5rem;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.Image {
+  height: 1rem;
+  width: 1rem;
+}
+.highlighted-chip {
+  background-color: #ffcc80;
+  border: 2px solid #ff9900;
+  border-radius: 10px;
+  width: 5rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}

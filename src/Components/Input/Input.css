@@ -1,0 +1,42 @@
+.nameitem {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0.75rem;
+}
+.nameitem:hover {
+  background-color: #9e9d99;
+}
+.visibleclass {
+  display: none;
+}
+.ChipDiv {
+  display: flex;
+}
+.listContainer {
+  border-radius: 1px;
+  box-shadow: antiquewhite !important;
+  border: 1px solid;
+  padding-top: 0;
+  margin-top: 0;
+  text-align: center;
+  padding-left: 0;
+  width: 25rem;
+}
+.inputField {
+  width: 80vw;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  height: 2rem;
+}
+.Avatar {
+  height: 2rem;
+  width: 2rem;
+  border-radius: 10px;
+}
+.InputSpanitems {
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
